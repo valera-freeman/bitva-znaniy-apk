@@ -1,0 +1,2 @@
+# APK не храним в git — они в Releases
+*.apk
