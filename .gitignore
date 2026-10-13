@@ -1,3 +1,4 @@
 # APK и version.json не храним в git — они лежат в Releases (ассеты)
 *.apk
 version.json
+release-description.md
